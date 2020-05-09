@@ -87,7 +87,7 @@ main {
 }
 .youtube iframe {
 	width: 100vw;
-	height: 100vh;
+	
 
 }
 footer, h5 {
@@ -109,6 +109,9 @@ footer, h5 {
 .page-footer{
 	background-color: #b71c1c;
 	
+}
+.card-title{
+	font-size: 10px;
 }
 
 
